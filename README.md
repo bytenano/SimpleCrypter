@@ -1,11 +1,11 @@
 <p align="center">
-  <img alt="btb-logo" src="./Images/simplecriptlogo_white.png#gh-dark-mode-only" width="1000" />
-   <img alt="btb-logo" src="./Images/simplecriptlogo_grey.png#gh-light-mode-only" width="1000" />
+  <img alt="btb-logo" src="./Images/simplecriptlogo_white.png#gh-dark-mode-only" width="600" />
+   <img alt="btb-logo" src="./Images/simplecriptlogo_grey.png#gh-light-mode-only" width="600" />
 </p>
 
-# BinaryToBytes [B2B] <br /> <a href="https://github.com/bytenano/SimpleCrypter/releases/latest"> <img src="https://img.shields.io/github/v/release/bytenano/SimpleCrypter"></img> </a> <a href="#"> <img src="https://img.shields.io/github/downloads/bytenano/SimpleCrypter/total"></img> </a> <a href="https://github.com/bytenano/BinaryToBytes-B2B/commits/master"> <img src="https://img.shields.io/github/last-commit/bytenano/SimpleCrypter"></img> </a>
+# SimpleCrypter [.NET/Native] [B2B] <br /> <a href="https://github.com/bytenano/SimpleCrypter/releases/latest"> <img src="https://img.shields.io/github/v/release/bytenano/SimpleCrypter"></img> </a> <a href="#"> <img src="https://img.shields.io/github/downloads/bytenano/SimpleCrypter/total"></img> </a> <a href="https://github.com/bytenano/BinaryToBytes-B2B/commits/master"> <img src="https://img.shields.io/github/last-commit/bytenano/SimpleCrypter"></img> </a>
 
-A simple binary to bytes converter with the ability to encrypt bytes and export with different templates
+A simple cryptor for .NET/Native files with Injection and obfuscation
 
 <h2 align="center">Preview</h2>
 

@@ -13,9 +13,21 @@ A simple cryptor for .NET/Native files with Injection and obfuscation
   <img alt="btb-console" src="./Images/simplecrypter_preview.png" width="1200" />
 </p>
 
-### What can:
-• Byte encryption in AES-256 <br />
-• 3 Сonversion methods
+### Features:
+
+• Anti-Debug
+• Anti-VM
+• StartUp
+• Melting
+• Running as Admin
+
+### Tech-part:
+
+• Injection PE
+• .NET Reactor implemented
 
 ### Credits:
 Nano — https://t.me/uxnano
+Dnlib (0xd4d) — https://github.com/0xd4d/dnlib
+Costura.Fody (Fody) - https://github.com/Fody/Costura
+Eziriz .NET Reactor - https://www.eziriz.com/dotnet_reactor.htm

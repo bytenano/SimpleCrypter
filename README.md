@@ -26,6 +26,15 @@ A simple cryptor for .NET/Native files with Injection and obfuscation
 • Injection PE <br />
 • .NET Reactor implemented <br />
 
+<h2 align="center">Scantime Result</h2>
+
+<p align="center">
+  <img alt="btb-console" src="./Images/simplecrypter_results.png" width="1200" />
+</p>
+
+### Warning!
+_This P.O. created for the purpose of learning for beginners in information security and malware analysis. If you actually try to distribute VIRUSES that are encrypted by SimpleCrypter, you are only responsible for yourself. We are not responsible for the use of our crypto protector for illegal purposes. The source code is published to assist government agencies. We are against the use of our P.O. for illegal purposes._
+
 ### Credits:
 Nano — https://t.me/uxnano <br />
 Dnlib (0xd4d) — https://github.com/0xd4d/dnlib <br />

@@ -15,19 +15,19 @@ A simple cryptor for .NET/Native files with Injection and obfuscation
 
 ### Features:
 
-• Anti-Debug
-• Anti-VM
-• StartUp
-• Melting
-• Running as Admin
+• Anti-Debug <br />
+• Anti-VM <br />
+• StartUp <br />
+• Melting <br />
+• Running as Admin <br />
 
 ### Tech-part:
 
-• Injection PE
-• .NET Reactor implemented
+• Injection PE <br />
+• .NET Reactor implemented <br />
 
 ### Credits:
-Nano — https://t.me/uxnano
-Dnlib (0xd4d) — https://github.com/0xd4d/dnlib
-Costura.Fody (Fody) - https://github.com/Fody/Costura
-Eziriz .NET Reactor - https://www.eziriz.com/dotnet_reactor.htm
+Nano — https://t.me/uxnano <br />
+Dnlib (0xd4d) — https://github.com/0xd4d/dnlib <br />
+Costura.Fody (Fody) - https://github.com/Fody/Costura <br />
+Eziriz .NET Reactor - https://www.eziriz.com/dotnet_reactor.htm <br />

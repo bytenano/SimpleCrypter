@@ -1,0 +1,14 @@
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\bin\x86\Release\Stub.exe.config
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\bin\x86\Release\Stub.exe
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\bin\x86\Release\Stub.pdb
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\bin\x86\Release\System.CodeDom.xml
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\bin\x86\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\obj\x86\Release\Stub.csproj.AssemblyReference.cache
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\obj\x86\Release\Stub.csproj.CoreCompileInputs.cache
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\obj\x86\Release\Stub.csproj.Fody.CopyLocal.cache
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\obj\x86\Release\Stub.csproj.Up2Date
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\obj\x86\Release\Stub.exe
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\obj\x86\Release\Stub.pdb
+C:\Users\Waltazar\source\repos\SimpleCrypter\Builder\bin\x86\Release\Stub\Stub.exe.config
+C:\Users\Waltazar\source\repos\SimpleCrypter\Builder\bin\x86\Release\Stub\Stub.exe
+C:\Users\Waltazar\source\repos\SimpleCrypter\Builder\bin\x86\Release\Stub\Stub.pdb

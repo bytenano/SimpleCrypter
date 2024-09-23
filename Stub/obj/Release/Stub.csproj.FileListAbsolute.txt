@@ -1,0 +1,9 @@
+C:\Users\Waltazar\source\repos\SimpleCrypter\Builder\bin\Debug\Stub\Stub.exe.config
+C:\Users\Waltazar\source\repos\SimpleCrypter\Builder\bin\Debug\Stub\Stub.exe
+C:\Users\Waltazar\source\repos\SimpleCrypter\Builder\bin\Debug\Stub\Stub.pdb
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\obj\Release\Stub.csproj.AssemblyReference.cache
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\obj\Release\Stub.csproj.CoreCompileInputs.cache
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\obj\Release\Stub.csproj.Fody.CopyLocal.cache
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\obj\Release\Stub.csproj.Up2Date
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\obj\Release\Stub.exe
+C:\Users\Waltazar\source\repos\SimpleCrypter\Stub\obj\Release\Stub.pdb

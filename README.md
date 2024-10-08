@@ -33,7 +33,7 @@ A simple cryptor for .NET/Native files with Injection and obfuscation
 </p>
 
 ### Warning!
-_This P.O. created for the purpose of learning for beginners in information security and malware analysis. If you actually try to distribute VIRUSES that are encrypted by SimpleCrypter, you are only responsible for yourself. We are not responsible for the use of our crypto protector for illegal purposes. The source code is published to assist government agencies. We are against the use of our P.O. for illegal purposes._
+_This software created for the purpose of learning for beginners in information security and malware analysis. If you actually try to distribute VIRUSES that are encrypted by SimpleCrypter, you are only responsible for yourself. We are not responsible for the use of our crypto protector for illegal purposes. The source code is published to assist government agencies. We are against the use of our software for illegal purposes._
 
 ### Credits:
 Nano — https://t.me/uxnano <br />
